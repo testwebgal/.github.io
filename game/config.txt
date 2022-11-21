@@ -1,0 +1,3 @@
+Game_name:one;
+Title_bgm:;
+Title_img:tmpuhqpe3vl.png;
